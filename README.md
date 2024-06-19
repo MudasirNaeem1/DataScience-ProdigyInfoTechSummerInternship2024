@@ -23,3 +23,5 @@ Analyze traffic accident data to identify patterns related to road conditions, w
 Dataset : https://www.kaggle.com/code/harshalbhamare/us-accident-eda
 
 This internship allowed me to enhance my skills in data visualization, analysis, and machine learning. Each task contributed to my understanding of data-driven problem solving and technical project management.
+
+Above Each folder contain dataset (.csv file), source code (.ipynb file) and output video (.mp4 file) according to the mentioned task in folder's name.
